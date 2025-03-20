@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cfonsecahenrique.github.io/al-folio/sitemap.xml
+Sitemap: https://cfonsecahenrique.github.io/sitemap.xml
