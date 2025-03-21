@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Office 2N9.9, GAIPS/INESC-ID, IST-Taguspark</p>
-    <p>Av. Prof. Dr. Cavaco Silva,
-    2744-016 Porto Salvo, Portugal</p>
-    <p>Lisbon, Portugal</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}" 
 social: true # includes social icons at the bottom of the page
@@ -32,3 +28,5 @@ My PhD research has a particular focus on how the evolution of social intelligen
 Currently, I am supervised by Full Professors [Francisco C. Santos](https://web.ist.utl.pt/franciscocsantos/) and [Rui Prada](https://gaips.inesc-id.pt/team/rui-prada/). I have also been previously supervised by [Ana Paiva](https://ana-paiva.com/), [Jorge M. Pacheco](https://atpgroup.org/jmp/) and [Fernando P. Santos](https://fp-santos.github.io/).
 
 I am also interested in the envisioning and development of trustworthy and fair AI for social good and AI governance, given its potential to help foster the emergence of fair, cooperative and just (hybrid) societies.
+
+<br>
