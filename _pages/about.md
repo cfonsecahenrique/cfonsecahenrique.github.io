@@ -9,26 +9,31 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 2N9.9, GAIPS/INESC-ID, IST-Taguspark</p>
+    <p>Av. Prof. Dr. Cavaco Silva,
+    2744-016 Porto Salvo, Portugal</p>
+    <p>Lisbon, Portugal</p>
+    <p>henrique[dot]c[dot]fonseca[at]tecnico[dot]ulisboa[dot]pt</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}" 
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD Candidate and Junior Researcher at the Group of Artificial Intelligence for People and Society ([GAIPS](https://gaips.inesc-id.pt/)), part of INESC-ID, Lisbon.
+My research focuses on the intersection of computer science, evolutionary biology and behavioural economics, the study of the evolution of cooperative behaviour.
+To that end, I develop computational models of the evolution strategic behaviours, employing Evolutionary Game Theory as a fundamental tool.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My PhD research has a particular focus on how the evolution of social intelligence dotes humans with the capacity to overcome shortcomings of reputation-based cooperation. In such a context, where reputations and social norms often lead to the evolution of cooperative behaviour, I aim to investigate the roles of memory, emotion, empathy and other aspects inherent to human social life.
+Currently, I am supervised by Full Professors [Francisco C. Santos](https://web.ist.utl.pt/franciscocsantos/) and [Rui Prada](https://gaips.inesc-id.pt/team/rui-prada/). I have also been previously supervised by [Ana Paiva](https://ana-paiva.com/), [Jorge M. Pacheco](https://atpgroup.org/jmp/) and [Fernando P. Santos](https://fp-santos.github.io/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also interested in the envisioning and development of trustworthy and fair AI for social good and AI governance, given its potential to help foster the emergence of fair, cooperative and just (hybrid) societies.
