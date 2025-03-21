@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching Experience
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+[Introduction to Algorithms and Data Structures](https://fenix.tecnico.ulisboa.pt/disciplinas/IAED/2022-2023/2-semestre), <strong>2021/2022</strong>, <strong>2022/2023</strong>, <strong>2023/2024</strong>. BSc Computer Science and Engineering, Instituto Superior Técnico - Universidade de Lisboa.
 
-Organize your courses by years, topics, or universities, however you like!
+[Complex Network Science](https://fenix.tecnico.ulisboa.pt/disciplinas/ARC11/2024-2025/1-semestre), <strong>2021/2022</strong>, <strong>2023/2024</strong>. MSc Computer Science and Engineering, Instituto Superior Técnico - Universidade de Lisboa.
