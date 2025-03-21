@@ -20,13 +20,13 @@ announcements:
 
 ---
 
-I am a PhD Candidate and Junior Researcher at the Group of Artificial Intelligence for People and Society ([GAIPS](https://gaips.inesc-id.pt/)), part of INESC-ID, Lisbon.
-My research focuses on the intersection of computer science, evolutionary biology and behavioural economics, the study of the evolution of cooperative behaviour.
-To that end, I develop computational models of the evolution strategic behaviours, employing Evolutionary Game Theory as a fundamental tool.
+I am a PhD Candidate and Junior Researcher at the <strong>Group of Artificial Intelligence for People and Society</strong> ([GAIPS](https://gaips.inesc-id.pt/)), part of [INESC-ID](https://www.inesc-id.pt/), Lisbon.
+My research focuses on the intersection of computer science, evolutionary biology and behavioural economics: [understanding how did cooperative behaviour evolve](https://www.science.org/doi/10.1126/science.309.5731.93).
+To that end, I develop computational models of the evolution of strategic behaviours, employing Evolutionary Game Theory as the main tool.
 
-My PhD research has a particular focus on how the evolution of social intelligence dotes humans with the capacity to overcome shortcomings of reputation-based cooperation. In such a context, where reputations and social norms often lead to the evolution of cooperative behaviour, I aim to investigate the roles of memory, emotion, empathy and other aspects inherent to human social life.
+My PhD research has a particular focus on how the evolution of social intelligence dotes humans with the capacity to overcome certain shortcomings of reputation-based cooperation. In such a context, where reputations and social norms often lead to the evolution of cooperative behaviour, I aim to investigate the roles of memory, emotion, empathy and other aspects inherent to human social life.
 Currently, I am supervised by Full Professors [Francisco C. Santos](https://web.ist.utl.pt/franciscocsantos/) and [Rui Prada](https://gaips.inesc-id.pt/team/rui-prada/). I have also been previously supervised by [Ana Paiva](https://ana-paiva.com/), [Jorge M. Pacheco](https://atpgroup.org/jmp/) and [Fernando P. Santos](https://fp-santos.github.io/).
 
-I am also interested in the envisioning and development of trustworthy and fair AI for social good and AI governance, given its potential to help foster the emergence of fair, cooperative and just (hybrid) societies.
+I am also interested in the envisioning and development of trustworthy and fair artificial intelligence for social good and its governance, given its potential to help foster the emergence of fair, cooperative and just (hybrid) societies.
 
 <br>

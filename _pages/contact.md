@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <h1>contact information</h1>
-
+<p class="post-description">where you can reach me</p>
 <strong>email adress:</strong> 
 
 henrique.c.fonseca[at]tecnico.ulisboa.pt
