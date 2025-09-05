@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 I teach undergraduate and graduate-level courses in Computer Science and Engineering as a Teaching Assistant, at Instituto Superior Técnico (IST), Universidade de Lisboa.
-I was lucky to receive an [Excellence in Teaching IST Award](https://dei.tecnico.ulisboa.pt/noticias/campus-e-comunidade/muitos-parabens-aos-professores-excelentes-do-dei) in the school year of 2022/2023.
+I was lucky to receive an [Excellence in Teaching IST Award](https://dei.tecnico.ulisboa.pt/noticias/campus-e-comunidade/muitos-parabens-aos-professores-excelentes-do-dei) in the school years of 2022/2023 and 2023/2024.
 
 [Introduction to Algorithms and Data Structures](https://fenix.tecnico.ulisboa.pt/disciplinas/IAED/2022-2023/2-semestre), BSc Computer Science and Engineering (LEIC), Instituto Superior Técnico - Universidade de Lisboa.
 - <strong>Spring, 2022</strong>
