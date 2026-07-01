@@ -13,8 +13,16 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+## Under review
+
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --group_by none --query @*[under_review=true]* %}
+
+</div>
+
+<div class="publications">
+
+{% bibliography --query @*[under_review!=true]* %}
 
 </div>

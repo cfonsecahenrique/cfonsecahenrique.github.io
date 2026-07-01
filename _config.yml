@@ -260,6 +260,7 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
+    under_review,
     video,
     website,
   ]
